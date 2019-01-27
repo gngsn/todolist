@@ -43,6 +43,15 @@
     font-size: 1.7rem;
     line-height: 1rem;
     margin-left: 1rem;
-    color: #3bc9db;
+    color: #adb5bd;
     font-weight: 800;
 }
+
+.check-square {
+    font-size: 3rem;
+    line-height: 1rem;
+    margin-left: 1rem;
+    color: #adb5bd;
+    font-weight: 800;
+}
+
